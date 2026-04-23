@@ -45,11 +45,22 @@ Arduino LoRa by Sandeepmistry : https://github.com/sandeepmistry/arduino-LoRa
 
 <img width="500" height="300" alt="Lora2 pptx (15)" src="https://github.com/user-attachments/assets/cb8b157e-91a7-4512-b0f5-055bfd34229f" />
 
+<img width="500" height="300" alt="Lora2 pptx (16)" src="https://github.com/user-attachments/assets/d8560ae0-6002-4005-b8ad-7c9f8b9a256d" />
+
+
 <img width="500" height="300" alt="Lora2 pptx22" src="https://github.com/user-attachments/assets/682f73ff-b196-445c-ac89-008e77fa7699" />
 
-# Balun Antena TV 75 Ohm
+# Bikin Balun Antena TV 75 Ohm
 
 <img width="500" height="300" alt="balun_75" src="https://github.com/user-attachments/assets/3b7f93fa-f0c1-49bf-ac05-cab1f756a890" />
+<br>
+Jadi bila ingin membuat yagi dengan impedansi 50 ohm tinggal menyesuaikan driven antena dan balun yang digunakan
+
+# Praktek ini pernah dilakukan di suramadu
+
+<img width="500" height="300" alt="Lora2 pptx (17)" src="https://github.com/user-attachments/assets/2c1557dd-c63d-4e53-a591-57b01876b418" />
 
 
+# Acknowledgement
 
+Bapak Ketut Udy Ariawan ST. MT. - Koordinator Prodi Teknik Rekayasa Sistem Elektronika - Fakultas Teknik Dan Kejuruan - Universitas Pendidikan Ganesha - Singaraja Bali 
