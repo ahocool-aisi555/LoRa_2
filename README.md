@@ -30,7 +30,8 @@ Part 3 : https://github.com/ahocool-aisi555/LoRa_IOT_GW_DIY
 
 # Library
 
-Arduino LoRa by Sandeepmistry : https://github.com/sandeepmistry/arduino-LoRa
+Arduino LoRa by Sandeepmistry : https://github.com/sandeepmistry/arduino-LoRa <br>
+Untuk menhemat memori vs Display Oled library harap install : SSD1306Ascii
 
 # Praktek 1 - 2
 
