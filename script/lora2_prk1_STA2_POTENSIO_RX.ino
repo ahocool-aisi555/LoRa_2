@@ -1,3 +1,7 @@
+//by : Nyoman Yudi Kurniawan
+//for : TRSE - Undiksha - 2025
+//www.aisi555.com
+
 #include <SPI.h>
 #include <LoRa.h>
 #include "SSD1306Ascii.h"
